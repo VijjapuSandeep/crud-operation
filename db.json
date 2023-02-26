@@ -1,0 +1,16 @@
+{
+  "colorList": [
+    {
+      "id": 3,
+      "color": "green",
+      "colorPallete": "#03C30F",
+      "seq": 15
+    },
+    {
+      "color": "red",
+      "colorPallete": "#f0e0fb",
+      "seq": "2",
+      "id": 4
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+.App {
+    text-align: center;
+  }
+  .header{
+    margin: 20px;
+    display: grid;
+    grid-template-columns: auto auto auto;
+  }
+  table {
+    border: 2px solid forestgreen;
+    width: 800px;
+    height: 200px;
+  }
+    
+  th {
+    border: 1px solid black;
+  }
+    
+  td {
+    text-align: center;
+    border: 1px solid black;
+  }
